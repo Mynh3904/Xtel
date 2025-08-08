@@ -24,6 +24,11 @@
     #nav .subnav a{
         background-color: #333;
         color: #fff;
+        padding: 5px 41px;
+    }
+
+    #nav li a{
+        padding: 1px 24px;
     }
 
     #nav > li {
